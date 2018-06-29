@@ -1,6 +1,6 @@
 MAJ
 
-if this page is empty, try again later...
+if this page is empty...
 
   good things take time
 
